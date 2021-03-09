@@ -1,5 +1,5 @@
-# little-checkout-form-for-opencart-1.5
-<h1>Упрощенная форма заказа - модуль для Opencart 1.5</h1>
-<h3>Install</h3>
-Распаковать с заменой файлов.<br />
-Настроен под шаблон default (по умолчанию), если используете другой - в контроллерах поменяйте пути на дефолтные соответственно либо замените в каталогах вашей теме эти файлы вручную
+# Little-Checkout-Form-For-OpenCart-1.5
+<H1> Simplified Order Form - Module for OpenCart 1.5 </ H1>
+<H3> Install </ h3>
+Unpack with replacing files. <br />
+Configured for the Default template (default) if you use another - in the controllers, change the paths to default, respectively, or replace these files in the directories 
